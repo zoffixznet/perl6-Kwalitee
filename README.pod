@@ -1,10 +1,10 @@
 =encoding utf8
 
-=for HTML <a href="https://travis-ci.org/zoffixznet/perl6-Test-Kwalitee"><img src="https://travis-ci.org/zoffixznet/perl6-Test-Kwalitee.svg?branch=master"></a>
+=for HTML <a href="https://travis-ci.org/zoffixznet/perl6-Kwalitee"><img src="https://travis-ci.org/zoffixznet/perl6-Kwalitee.svg?branch=master"></a>
 
 =head1 NAME
 
-Test::Kwalitee - Test how good your software is
+Kwalitee - Measure how good your software is
 
 =head1 SYNOPSIS
 
@@ -20,12 +20,12 @@ your distribution.
 =head1 REPOSITORY
 
 Fork this module on GitHub:
-L<https://github.com/zoffixznet/perl6-Test-Kwalitee>
+L<https://github.com/zoffixznet/perl6-Kwalitee>
 
 =head1 BUGS
 
 To report bugs or request features, please use
-L<https://github.com/zoffixznet/perl6-Test-Kwalitee/issues>
+L<https://github.com/zoffixznet/perl6-Kwalitee/issues>
 
 =head1 AUTHOR
 
