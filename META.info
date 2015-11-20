@@ -1,0 +1,17 @@
+{
+    "name"         : "Kwalitee",
+    "version"      : "1.001001",
+    "description"  : "Measure how good your software is",
+    "depends"      : [
+        "Pluggable"
+    ],
+    "test-depends" : [ "Test" ],
+    "provides"     : {
+        "Kwalitee"       : "lib/Kwalitee.pm6",
+        "Test::Kwalitee" : "lib/Test/Kwalitee.pm6"
+    },
+    "perl"         : "6",
+    "author"       : "Zoffix Znet",
+    "authority"    : "zoffixznet",
+    "source-url"   : "git://github.com/zoffixznet/perl6-Kwalitee.git"
+}

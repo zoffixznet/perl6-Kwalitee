@@ -1,0 +1,40 @@
+=encoding utf8
+
+=for HTML <a href="https://travis-ci.org/zoffixznet/perl6-Test-Kwalitee"><img src="https://travis-ci.org/zoffixznet/perl6-Test-Kwalitee.svg?branch=master"></a>
+
+=head1 NAME
+
+Test::Kwalitee - Test how good your software is
+
+=head1 SYNOPSIS
+
+=head1 DESCRIPTION
+
+Kwalitee is an automatically-measurable gauge of how good your software is.
+That's very different from quality, which a computer really can't measure in
+a general sense.
+
+Using this module you can identify potential problems or shortcommings in
+your distribution.
+
+=head1 REPOSITORY
+
+Fork this module on GitHub:
+L<https://github.com/zoffixznet/perl6-Test-Kwalitee>
+
+=head1 BUGS
+
+To report bugs or request features, please use
+L<https://github.com/zoffixznet/perl6-Test-Kwalitee/issues>
+
+=head1 AUTHOR
+
+Zoffix Znet L<http://zoffix.com/>
+
+=head1 LICENSE
+
+You can use and distribute this module under the same terms as Perl 6
+itself. See the C<LICENSE> file included in this distribution for complete
+details.
+
+=cut
