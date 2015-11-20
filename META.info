@@ -3,12 +3,17 @@
     "version"      : "1.001001",
     "description"  : "Measure how good your software is",
     "depends"      : [
-        "Pluggable"
+        "Pod::Coverage",
+        "Pluggable",
+        "Test",
+        "Test::META"
     ],
     "test-depends" : [ "Test" ],
     "provides"     : {
-        "Kwalitee"       : "lib/Kwalitee.pm6",
-        "Test::Kwalitee" : "lib/Test/Kwalitee.pm6"
+        "Kwalitee"               : "lib/Kwalitee.pm6",
+        "Kwalitee::Metric"       : "lib/Kwalitee/Metric.pm6",
+        "Kwalitee::Metric::META" : "lib/Kwalitee/Metric/META.pm6",
+        "Test::Kwalitee"         : "lib/Test/Kwalitee.pm6"
     },
     "perl"         : "6",
     "author"       : "Zoffix Znet",
